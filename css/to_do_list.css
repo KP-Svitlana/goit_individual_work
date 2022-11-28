@@ -1,0 +1,23 @@
+.header__title {
+  margin-left: 50px;
+  color: rgb(49, 3, 91);
+}
+
+.data-field {
+  border: 10px;
+  border-color: black;
+  border-radius: 2px;
+}
+
+.container {
+  text-align: center;
+  width: 400px;
+}
+
+.data-field__input {
+  margin-left: 10px;
+}
+
+.task-field__btn {
+  margin-right: 10px;
+}
